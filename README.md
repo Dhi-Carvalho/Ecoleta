@@ -6,9 +6,7 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Dhi-Carvalho/NLW1-Ecoleta?style=plastic">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Dhi-Carvalho/NLW1-Ecoleta?style=plastic">
-  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Dhi-Carvalho/NLW-Ecoleta?style=plastic">
-  
+    
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Dhi-Carvalho/NLW1-Ecoleta?style=plastic">
 
  
@@ -129,7 +127,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🦸 Autor
+## :man_student: Autor
 
  <h1 align="center">
     <img style="border-radius: 50%;" src="https://images2.imgbox.com/7c/82/ADR3x8b2_o.jpg" width="250">
