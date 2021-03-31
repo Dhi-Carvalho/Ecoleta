@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/images/banner.png" />
+</h1>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Dhi-Carvalho/NLW1-Ecoleta?style=plastic">
 
@@ -11,9 +15,6 @@
 
  
 </p>
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/images/banner.png" />
-</h1>
 
 <h3 align="center"> 
 	🚧  Ecoleta ♻️ Concluído 🚀 🚧
