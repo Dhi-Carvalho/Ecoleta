@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/images/banner.png" />
+    <img alt="LaunchBase" src="./public/images/banner.png" />
 </h1>
 
 <p align="center">
@@ -148,6 +148,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com por Dhi Carvalho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dhi-carvalho/)
+Feito por **Dhi Carvalho** 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dhi-carvalho/)
 
 ---
